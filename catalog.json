@@ -33,6 +33,18 @@
   "home": {
     "count": 4,
     "inventoryValue": 102379.25
+  },
+  "sports": {
+    "count": 6,
+    "inventoryValue": 0
+  },
+  "books": {
+    "count": 5,
+    "inventoryValue": 0
+  },
+  "clothing": {
+    "count": 3,
+    "inventoryValue": 0
   }
 }
 }
