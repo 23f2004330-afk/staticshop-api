@@ -26,9 +26,13 @@
     { "id": "prod-fb162280-020", "name": "Basic Item 20", "category": "home", "price": 476.04, "stock": 87, "rating": 2.4 }
   ],
   "aggregations": {
-    "home": {
-      "count": 4,
-      "inventoryValue": 102379.25
-    }
+  "electronics": {
+    "count": 2,
+    "inventoryValue": 16984.04
+  },
+  "home": {
+    "count": 4,
+    "inventoryValue": 102379.25
   }
+}
 }
