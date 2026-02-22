@@ -26,25 +26,25 @@
     { "id": "prod-fb162280-020", "name": "Basic Item 20", "category": "home", "price": 476.04, "stock": 87, "rating": 2.4 }
   ],
   "aggregations": {
-  "electronics": {
-    "count": 2,
-    "inventoryValue": 16984.04
-  },
-  "home": {
-    "count": 4,
-    "inventoryValue": 102379.25
-  },
-  "sports": {
-    "count": 6,
-    "inventoryValue": 0
-  },
-  "books": {
-    "count": 5,
-    "inventoryValue": 0
-  },
-  "clothing": {
-    "count": 3,
-    "inventoryValue": 0
+    "electronics": {
+      "count": 2,
+      "inventoryValue": 16984.04
+    },
+    "home": {
+      "count": 4,
+      "inventoryValue": 102379.25
+    },
+    "sports": {
+      "count": 6,
+      "inventoryValue": 133043.63
+    },
+    "books": {
+      "count": 5,
+      "inventoryValue": 221920.77
+    },
+    "clothing": {
+      "count": 3,
+      "inventoryValue": 90449.35
+    }
   }
-}
 }
